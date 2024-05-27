@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"name": "Reception",
+			"path": "../../Reception"
+		},
+		{
+			"name": "HeatStepper",
+			"path": "../../HeatStepper"
+		},
+		{
+			"name": "TTL_test",
+			"path": "../../TTL_test"
+		},
+		{
+			"name": "Station",
+			"path": ".."
+		},
+		{
+			"name": "LedsTest",
+			"path": "../../LedsTest"
+		}
+	],
+	"settings": {}
+}
